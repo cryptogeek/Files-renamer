@@ -1,0 +1,33 @@
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\bin\Release\filerenamer.exe.config
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\bin\Release\filerenamer.exe
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\bin\Release\filerenamer.pdb
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\obj\Release\filerenamer.csprojResolveAssemblyReference.cache
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\obj\Release\filerenamer.Form1.resources
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\obj\Release\filerenamer.Properties.Resources.resources
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\obj\Release\filerenamer.csproj.GenerateResource.Cache
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\obj\Release\filerenamer.exe
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\obj\Release\filerenamer.pdb
+E:\files\natelandpc\z\software\my software\visual studio c#\projects\filerenamer\filerenamer\bin\Release\filerenamer.exe.config
+E:\files\natelandpc\z\software\my software\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.exe
+E:\files\natelandpc\z\software\my software\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.pdb
+E:\files\a\software\my software\visual studio c#\projects\filerenamer\filerenamer\bin\Release\filerenamer.exe.config
+E:\files\a\software\my software\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.exe
+E:\files\a\software\my software\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.pdb
+E:\files\a\software\my software\visual studio c#\projects\filerenamer\filerenamer\bin\Release\filerenamer.exe
+E:\files\a\software\my software\visual studio c#\projects\filerenamer\filerenamer\bin\Release\filerenamer.pdb
+E:\files\a\software\my software\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.csprojResolveAssemblyReference.cache
+E:\files\a\software\my software\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.Form1.resources
+E:\files\a\software\my software\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.Properties.Resources.resources
+E:\files\a\software\my software\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.csproj.GenerateResource.Cache
+E:\files\a\software\MySoftware\visual studio c#\projects\filerenamer\filerenamer\bin\Release\filerenamer.exe.config
+E:\files\a\software\MySoftware\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.exe
+E:\files\a\software\MySoftware\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.pdb
+E:\files\a\software\MySoftware\visual studio c#\projects\filerenamer\filerenamer\bin\Release\filerenamer.exe
+E:\files\a\software\MySoftware\visual studio c#\projects\filerenamer\filerenamer\bin\Release\filerenamer.pdb
+E:\files\a\software\MySoftware\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.csprojResolveAssemblyReference.cache
+E:\files\a\software\MySoftware\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.Form1.resources
+E:\files\a\software\MySoftware\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.Properties.Resources.resources
+E:\files\a\software\MySoftware\visual studio c#\projects\filerenamer\filerenamer\obj\Release\filerenamer.csproj.GenerateResource.Cache
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\filerenamer\bin\Release\filerenamer.exe.config
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\filerenamer\obj\Release\filerenamer.exe
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\filerenamer\obj\Release\filerenamer.pdb

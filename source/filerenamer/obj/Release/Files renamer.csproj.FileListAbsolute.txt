@@ -1,0 +1,18 @@
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\filerenamer\bin\Release\Files renamer.exe.config
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\filerenamer\bin\Release\Files renamer.exe
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\filerenamer\bin\Release\Files renamer.pdb
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\filerenamer\obj\Release\Files renamer.csprojResolveAssemblyReference.cache
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\filerenamer\obj\Release\filerenamer.Form1.resources
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\filerenamer\obj\Release\filerenamer.Properties.Resources.resources
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\filerenamer\obj\Release\Files renamer.csproj.GenerateResource.Cache
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\filerenamer\obj\Release\Files renamer.exe
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\filerenamer\obj\Release\Files renamer.pdb
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\source\filerenamer\bin\Release\Files renamer.exe.config
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\source\filerenamer\obj\Release\Files renamer.exe
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\source\filerenamer\obj\Release\Files renamer.pdb
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\source\filerenamer\bin\Release\Files renamer.exe
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\source\filerenamer\bin\Release\Files renamer.pdb
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\source\filerenamer\obj\Release\Files renamer.csprojResolveAssemblyReference.cache
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\source\filerenamer\obj\Release\filerenamer.Form1.resources
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\source\filerenamer\obj\Release\filerenamer.Properties.Resources.resources
+E:\files\a\software\MySoftware\visual studio c#\projects\Files renamer\source\filerenamer\obj\Release\Files renamer.csproj.GenerateResource.Cache

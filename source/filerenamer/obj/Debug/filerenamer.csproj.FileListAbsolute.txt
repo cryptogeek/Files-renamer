@@ -1,0 +1,8 @@
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\bin\Debug\filerenamer.exe.config
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\bin\Debug\filerenamer.exe
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\bin\Debug\filerenamer.pdb
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\obj\Debug\filerenamer.Form1.resources
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\obj\Debug\filerenamer.Properties.Resources.resources
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\obj\Debug\filerenamer.csproj.GenerateResource.Cache
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\obj\Debug\filerenamer.exe
+C:\Users\Jhon\Documents\Visual Studio 2013\Projects\filerenamer\filerenamer\obj\Debug\filerenamer.pdb
